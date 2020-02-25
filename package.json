@@ -15,6 +15,7 @@
     "@react-native-community/masked-view": "^0.1.6",
     "@react-native-community/netinfo": "^5.5.0",
     "@react-native-community/push-notification-ios": "^1.0.6",
+    "@react-navigation/drawer": "^5.0.7",
     "@react-navigation/native": "^5.0.6",
     "@react-navigation/stack": "^5.0.6",
     "axios": "^0.19.2",

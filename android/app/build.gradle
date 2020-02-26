@@ -133,6 +133,8 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
+
+        missingDimensionStrategy 'react-native-camera', 'general'
     }
     splits {
         abi {
@@ -153,6 +155,7 @@ android {
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
+            multiDexEnabled true
         }
         release {
             // Caution! In production, you need to generate your own keystore file.
@@ -160,6 +163,7 @@ android {
             signingConfig signingConfigs.debug
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+            multiDexEnabled true
         }
     }
     // applicationVariants are e.g. debug, release

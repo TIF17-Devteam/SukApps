@@ -18,7 +18,7 @@ http://reactnative.dev/docs/getting-started
  ---
 
 # How to Install and Run the project
-## Get the project
+## - Get the project
 First, you must clone the project in your terminal
 `git clone https://github.com/TIF17-Devteam/SukApps.git`
 
@@ -52,13 +52,13 @@ Before this one u may setting the xcode: http://reactnative.dev/docs/running-on-
 
 
 # Troubleshooting
-## Build Failed on Android (Recommended)
+## - Build Failed on Android (Recommended)
 If you don't make a big mistake just clean your android gradle
 1. `cd android`
 2. `./gradlew clean`
 3. run your project again 😉😉
 
-## Build Failed on iOS (Recommended)
+## - Build Failed on iOS (Recommended)
 If you don't make a big mistake just follow this step
 1. open your Xcode and go to "Product" > "Clean build".
 
@@ -79,5 +79,5 @@ Thanks :)
 
 
 ---
-#Nice work bro! you made it! 👍
+# #Nice work bro! you made it! 👍
 ---

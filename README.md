@@ -37,11 +37,11 @@ Before upload your project to this repository, YOU MUST "PULL" BEFORE "PUSH" IT
 4. Have done brohh 👍
 
 
-## Run the project on Android
+## - Run the project on Android
 `npx react-native run-android`
 
 
-## Run the project on iOS
+## - Run the project on iOS
 Run the project on simulator
 `npx react-native run-ios` or with specific iphone 8: `npx react-native run-ios --simulator="iPhone 8"`
 

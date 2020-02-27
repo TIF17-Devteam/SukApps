@@ -1,7 +1,7 @@
 This document is split into three main sections:
 1. Required installation steps for basic usage of project SukApps
-2. Additional installation steps to handling error in this react-native project
-3. Tips and trick you can use to easily develop this project
+2. Additional installation steps to troubleshooting in this react-native project
+3. Tips and trick you can use to easily develop this project `comming soon`
 
 
 # Requirements

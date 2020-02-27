@@ -21,6 +21,7 @@
     "axios": "^0.19.2",
     "formik": "^2.1.4",
     "react": "16.9.0",
+    "react-devtools": "^4.4.0",
     "react-native": "0.61.5",
     "react-native-camera": "^3.18.0",
     "react-native-device-info": "^5.5.3",

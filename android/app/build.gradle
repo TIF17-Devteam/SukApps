@@ -135,6 +135,7 @@ android {
         versionName "1.0"
 
         missingDimensionStrategy 'react-native-camera', 'general'
+        apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
     }
     splits {
         abi {

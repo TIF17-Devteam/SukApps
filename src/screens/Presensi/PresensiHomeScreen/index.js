@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { View } from 'react-native';
 import PilihanMenu from '../../../components/moleculs/PilihanMenu';
 import HeaderOnly from './../../../components/moleculs/HeaderOnly';
-
 class PresensiHomeScreen extends Component {
     render() {
         return (

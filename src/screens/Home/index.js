@@ -17,7 +17,7 @@ class Home extends Component {
                     <PilihanMenu namaMenu="Surat" imgMenu={require('./../../assets/images/check.png')} tekan={() => this.props.navigation.navigate('SuratHomeScreen')} />
                     </View>
                     <View style={{ flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between', marginVertical: 10 }}>
-                        <PilihanMenu namaMenu="Presensi" imgMenu={require('./../../assets/images/check.png')} tekan={() => this.props.navigation.navigate('PresensiHomeScreen')} />
+                        <PilihanMenu namaMenu="Presensi" imgMenu={require('./../../assets/images/check.png')} tekan={() => this.props.navigation.navigate('Presensi')} />
                         <PilihanMenu namaMenu="Chats" imgMenu={require('./../../assets/images/check.png')} tekan={() => this.props.navigation.navigate('ChatHomeScreen')} />
                     </View>
                 </View>
